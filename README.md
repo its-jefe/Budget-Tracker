@@ -23,6 +23,9 @@ This PWA can be downloaded and used offline, then updates when connectivity is r
 
 > Some `Express`
 
+> `Middleware`
+> > `Morgan`: HTTP request logger middleware for node.js
+
 
 - Took an existing application and turned it into a PWA
 - Hosting on heroku 
