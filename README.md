@@ -26,8 +26,8 @@ This PWA can be downloaded and used offline, then updates when connectivity is r
 
 - Took an existing application and turned it into a PWA
 - Hosting on heroku 
-- Setting up a MongoDB database
-- Ensuring the app could add and delete entries while offline and update when back online.
+- Setup a MongoDB database
+- Ensured the app could add and delete entries while offline and update when back online.
 
 [1]:https://github.com/UCF-Coding-Boot-Camp/UCF-VIRT-BO-FSF-PT-04-2021-U-B/tree/main/19-PWA/02-Challenge
 
